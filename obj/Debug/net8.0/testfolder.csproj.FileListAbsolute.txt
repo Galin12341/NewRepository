@@ -1,0 +1,14 @@
+C:\Users\pclab\testfolder\testfolder\bin\Debug\net8.0\testfolder.exe
+C:\Users\pclab\testfolder\testfolder\bin\Debug\net8.0\testfolder.deps.json
+C:\Users\pclab\testfolder\testfolder\bin\Debug\net8.0\testfolder.runtimeconfig.json
+C:\Users\pclab\testfolder\testfolder\bin\Debug\net8.0\testfolder.dll
+C:\Users\pclab\testfolder\testfolder\bin\Debug\net8.0\testfolder.pdb
+C:\Users\pclab\testfolder\testfolder\obj\Debug\net8.0\testfolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pclab\testfolder\testfolder\obj\Debug\net8.0\testfolder.AssemblyInfoInputs.cache
+C:\Users\pclab\testfolder\testfolder\obj\Debug\net8.0\testfolder.AssemblyInfo.cs
+C:\Users\pclab\testfolder\testfolder\obj\Debug\net8.0\testfolder.csproj.CoreCompileInputs.cache
+C:\Users\pclab\testfolder\testfolder\obj\Debug\net8.0\testfolder.dll
+C:\Users\pclab\testfolder\testfolder\obj\Debug\net8.0\refint\testfolder.dll
+C:\Users\pclab\testfolder\testfolder\obj\Debug\net8.0\testfolder.pdb
+C:\Users\pclab\testfolder\testfolder\obj\Debug\net8.0\testfolder.genruntimeconfig.cache
+C:\Users\pclab\testfolder\testfolder\obj\Debug\net8.0\ref\testfolder.dll
